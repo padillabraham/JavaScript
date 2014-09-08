@@ -1,0 +1,8 @@
+/*Code Made by W0LVEN*/
+
+
+var draw = function() {
+    ellipse(mouseX, mouseY, 20, 20);
+    fill(0, 27, 163);
+    stroke(245, 5, 229);
+};
